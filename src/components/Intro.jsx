@@ -58,7 +58,7 @@ const Intro = () => {
           Take Control of <span className="accent">Your Money</span>
         </h1>
         <p>
-          Personal Finance 
+          Personal budgeting is the secret to financial freedom. Start your journey today by tracking your expenses.
         </p>
         <Form method="post">
           <input
