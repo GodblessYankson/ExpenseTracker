@@ -58,7 +58,7 @@ const Intro = () => {
           Take Control of <span className="accent">Your Money</span>
         </h1>
         <p>
-          Personal budgeting is the secret to financial freedom. Start your journey today by tracking your expenses.
+          Personal budgeting is the secret to financial freedom. Start your journey today by tracking your expenses and save the little you can for a stable financial future
         </p>
         <Form method="post">
           <input
